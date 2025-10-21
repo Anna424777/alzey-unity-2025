@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e0e5d688c068fcd4f89fff2a2e52ea58
+guid: c11c93b434bb1ec498cd76aa2101193b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6909752279376520760
-    second: PhoenixIdle_0
+      213: -8513114177903655965
+    second: PhoenixFall_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,12 +100,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PhoenixIdle_0
+      name: PhoenixFall_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 3
         y: 0
-        width: 16
+        width: 11
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -115,74 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 836ee22b61f54ef50800000000000000
-      internalID: 6909752279376520760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PhoenixIdle_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b10ebcfda6172a54d854833fc87d6450
-      internalID: 627022208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PhoenixIdle_2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c1596d6e371ac840b7568b015d84359
-      internalID: 442560630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PhoenixIdle_3
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6050563c5a6314344b4becd9a44d04c0
-      internalID: 1695661013
+      spriteID: 3e306b572c75bd980800000000000000
+      internalID: -8513114177903655965
       vertices: []
       indices: 
       edges: []
@@ -191,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c3000485fa6b8e946b058ca709a527bd
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -201,10 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PhoenixIdle_0: 6909752279376520760
-      PhoenixIdle_1: 627022208
-      PhoenixIdle_2: 442560630
-      PhoenixIdle_3: 1695661013
+      PhoenixFall_0: -8513114177903655965
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

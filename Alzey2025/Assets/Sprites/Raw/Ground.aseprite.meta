@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e518086a12a268f47928ef6c40c5e556
+guid: a055ba4df9a2a5e47a3fcdcdc18c8cfe
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,30 +123,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: ObjectSprite
+  - name: Ground
     originalName: 
-    pivot: {x: 0.5, y: -0.15384616}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 27
-      width: 12
-      height: 13
-    spriteID: 99f282220ab514643a4fd2bf179d6d6a
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 27}
-  - name: Frame_1
-    originalName: 
-    pivot: {x: 0.5, y: -0.06666667}
+    pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -154,9 +133,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 12
-      height: 15
-    spriteID: b1036929af4d64f45ac636137c5ea7f1
+      width: 16
+      height: 16
+    spriteID: b4949427d1f7d0d4fb86d97de115da38
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -169,34 +148,25 @@ ScriptedImporter:
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 3839085864
+      value0: 2024493761
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: ObjectSprite
+    name: Ground
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Ground
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 2
-        y: 2
-        width: 12
-        height: 13
-      spriteId: 99f282220ab514643a4fd2bf179d6d6a
-    - name: Frame_1
-      frameIndex: 1
-      additiveSortOrder: 0
-      cellRect:
-        x: 2
-        y: 1
-        width: 12
-        height: 15
-      spriteId: b1036929af4d64f45ac636137c5ea7f1
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      spriteId: b4949427d1f7d0d4fb86d97de115da38
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -216,4 +186,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 16, y: 16}
-  previousTextureSize: {x: 32, y: 64}
+  previousTextureSize: {x: 32, y: 32}

@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: e0e5d688c068fcd4f89fff2a2e52ea58
+guid: ad54b3f24f2e01d4596c2429d2b89fca
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6909752279376520760
-    second: PhoenixIdle_0
+      213: 152590445313621449
+    second: PhoenixWalk_0
+  - first:
+      213: -4585530613901174255
+    second: PhoenixWalk_1
+  - first:
+      213: -1650116528338681557
+    second: PhoenixWalk_2
+  - first:
+      213: -5913573247020574204
+    second: PhoenixWalk_3
+  - first:
+      213: -6977525639594760892
+    second: PhoenixWalk_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,12 +112,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PhoenixIdle_0
+      name: PhoenixWalk_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 3
         y: 0
-        width: 16
+        width: 11
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -115,19 +127,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 836ee22b61f54ef50800000000000000
-      internalID: 6909752279376520760
+      spriteID: 9cd7909933c1e1200800000000000000
+      internalID: 152590445313621449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PhoenixIdle_1
+      name: PhoenixWalk_1
       rect:
         serializedVersion: 2
-        x: 16
+        x: 19
         y: 0
-        width: 16
+        width: 11
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -135,21 +147,21 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b10ebcfda6172a54d854833fc87d6450
-      internalID: 627022208
+      spriteID: 11addbba33cec50c0800000000000000
+      internalID: -4585530613901174255
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PhoenixIdle_2
+      name: PhoenixWalk_2
       rect:
         serializedVersion: 2
-        x: 32
+        x: 35
         y: 0
-        width: 16
+        width: 11
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -157,21 +169,21 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5c1596d6e371ac840b7568b015d84359
-      internalID: 442560630
+      spriteID: b214f5a92cb9919e0800000000000000
+      internalID: -1650116528338681557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PhoenixIdle_3
+      name: PhoenixWalk_3
       rect:
         serializedVersion: 2
-        x: 48
+        x: 51
         y: 0
-        width: 16
+        width: 11
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -179,10 +191,32 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6050563c5a6314344b4becd9a44d04c0
-      internalID: 1695661013
+      spriteID: 40ad51a9674ceeda0800000000000000
+      internalID: -5913573247020574204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixWalk_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44526c83669da2f90800000000000000
+      internalID: -6977525639594760892
       vertices: []
       indices: 
       edges: []
@@ -191,7 +225,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c3000485fa6b8e946b058ca709a527bd
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -201,10 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PhoenixIdle_0: 6909752279376520760
-      PhoenixIdle_1: 627022208
-      PhoenixIdle_2: 442560630
-      PhoenixIdle_3: 1695661013
+      PhoenixWalk_0: 152590445313621449
+      PhoenixWalk_1: -4585530613901174255
+      PhoenixWalk_2: -1650116528338681557
+      PhoenixWalk_3: -5913573247020574204
+      PhoenixWalk_4: -6977525639594760892
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
